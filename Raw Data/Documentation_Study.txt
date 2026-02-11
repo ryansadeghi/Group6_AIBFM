@@ -1,0 +1,7 @@
+Sources:
+- FIFA official statistics website
+- Kaggle football datasets
+
+Findings:
+- Historical match data is essential for prediction accuracy
+- Probability-based outputs are common in prediction systems

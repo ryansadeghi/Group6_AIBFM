@@ -1,0 +1,7 @@
+Survey Questions:
+1. How often do you watch football matches?
+2. Would you trust AI-based predictions?
+3. Which feature is most important?
+   - Match outcome prediction
+   - Team statistics
+   - Probability visualization

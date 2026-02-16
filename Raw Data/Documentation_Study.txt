@@ -1,0 +1,22 @@
+February 2026
+Group 6
+Understand what sources and information is requiered to build an AI based prediction app
+
+
+Source:
+
+SportMunks: Football data API
+
+Data include in API:
+  . Match fixtures
+	.	Historical match results
+	.	Team statistics
+	.	League standings
+	.	Player statistics
+	.	Goals scored and conceded
+	.	Match events
+
+Findings:
+. Historical match data is essential for prediction accuracy
+. Probability based outputs are common in prediction systems
+. Prediction models are tipically Win/Draw/Loss

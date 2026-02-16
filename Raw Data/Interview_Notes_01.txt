@@ -1,0 +1,10 @@
+Date: 2026-02-11
+Participant Name: Football Fan
+Role: End User
+Interviewer: Faraz,ryan,mahdiar
+Goal: Identify user needs for football match prediction system
+
+Key Findings:
+- User wants simple match outcome predictions
+- User prefers win/draw/loss probabilities
+- User wants recent team performance included
